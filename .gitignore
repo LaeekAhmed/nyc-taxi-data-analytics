@@ -1,0 +1,12 @@
+airflow/logs/
+airflow/dags/dbt_job_dag.py
+airflow/.env
+airflow/docker-compose2.yaml
+airflow/yellow_tripdata_2021-01.csv
+
+data/
+notes/
+
+docker_sql/ny_taxi_postgres_data/
+docker_sql/output.csv.gz
+docker_sql/output.parquet
